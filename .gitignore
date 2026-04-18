@@ -16,3 +16,6 @@ build/
 .idea/
 .vscode/
 
+# Standalone app with its own Git repository (see https://github.com/nikolab5901/daily-bible).
+daily_bible/
+
