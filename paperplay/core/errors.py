@@ -1,3 +1,0 @@
-class PaperPlayError(Exception):
-    pass
-
