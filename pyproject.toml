@@ -27,3 +27,8 @@ package-dir = {"" = "."}
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["paperplay*"]
+
+[tool.uv.workspace]
+members = [
+    "daily_bible",
+]
